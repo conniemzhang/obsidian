@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "b95e34f70146d3d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d877740a91178a1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a77bfe6f65c49378",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6461e3a231ea3ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d69f75fa4fbfd0c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cab858613a765983",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 367
+  },
+  "right": {
+    "id": "f4da22fe30fdeeb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "77d3014468db5c97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "017f66cb79c9a3d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5d877740a91178a1",
+  "lastOpenFiles": [
+    "Gray Matter Robotics Coding Question.md",
+    "202209121052 How to Have Neat Nail.md",
+    "202203281009 Denniston22 - Loop Closure Prioritization for Efficient and Scalable Multi-Robot SLAM.md",
+    "202203211422 Ideas for Research.md",
+    "202111301251 Structure From Motion.md",
+    "202106291804 Lin18 - A hybrid positioning method for multi-robot simultaneous location and mapping.md",
+    "202106291804 A hybrid positioning method for multi-robot simultaneous location and mapping.md",
+    "202106291758 Rtab-SLAM.md",
+    "202106291748 Normal Distribution Transform.md",
+    "202106291740 Heterogeneous Multi-Robot SLAM.md"
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "b95e34f70146d3d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2cb67793e58640a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d2212463757520d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled Monster Lesbians chap 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled Monster Lesbians chap 2"
+            }
+          },
+          {
+            "id": "ec08af794cda8b8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Butch Exterminator in Another World.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Butch Exterminator in Another World"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a77bfe6f65c49378",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6461e3a231ea3ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d69f75fa4fbfd0c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cab858613a765983",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Startup",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e06a907a7d78ff22",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5086555480957
+  },
+  "right": {
+    "id": "f4da22fe30fdeeb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "77d3014468db5c97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "017f66cb79c9a3d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled Monster Lesbians chap 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled Monster Lesbians chap 2"
+            }
+          },
+          {
+            "id": "20672a4db245d447",
+            "type": "leaf",
+            "state": {
+              "type": "inline-scripts-button-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "3bfc0943aa83c0e5",
+            "type": "leaf",
+            "state": {
+              "type": "inline-scripts-button-view",
+              "state": {},
+              "icon": "inline-scripts-button-view",
+              "title": "Inline Scripts - Buttons"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "0d2212463757520d",
+  "lastOpenFiles": [
+    "math_notes/202106291748 Normal Distribution Transform.md",
+    "Untitled.canvas",
+    "math_notes/Probability Review.md",
+    "math_notes",
+    "machine_learning_notes/Given Lecture Notes/Principal Component Analysis.pdf",
+    "machine_learning_notes/Given Lecture Notes/Mixture of Gaussians.pdf",
+    "machine_learning_notes/Given Lecture Notes/Expectation Maximization Algorithm.pdf",
+    "machine_learning_notes/Given Lecture Notes",
+    "creative_writing/Writing Class.md",
+    "machine_learning_notes/5. Kernels and SVMs.md",
+    "machine_learning_notes/3.md",
+    "machine_learning_concepts/8. Markov Models.md",
+    "machine_learning_notes/Lecture Notes/Principal Component Analysis.pdf",
+    "machine_learning_notes/Lecture Notes/Expectation Maximization Algorithm.pdf",
+    "machine_learning_notes/Lecture Notes/Mixture of Gaussians.pdf",
+    "machine_learning_notes/Lecture Notes",
+    "machine_learning_notes/8. Markov Models.md",
+    "machine_learning_notes/7. Learning Theory.md",
+    "machine_learning_notes/6b. Unsupervised Learning (Subspace).md",
+    "machine_learning_notes/6a. Unsupervised Learning (Cluster).md",
+    "machine_learning_notes/4. Generative Learning Algorithms.md",
+    "machine_learning_notes/3. Generalized Linear Models.md",
+    "machine_learning_notes/2. Logistic Regression.md",
+    "machine_learning_notes/1. Linear Regression.md",
+    "machine_learning_notes/(ICA) Independent Components Analysis.md",
+    "machine_learning_notes",
+    "machine_learning_concepts/(ICA) Independent Components Analysis.md",
+    "machine_learning_concepts/7. Learning Theory.md",
+    "creative_writing/Untitled Monster Lesbians.md",
+    "creative_writing/Untitled.md",
+    "202203221440 List of technical areas that need to be studied.md",
+    "202203281015 SLAM.md",
+    "202204121415 Research Ideas the ZK Version.md",
+    "202203211422 Ideas for Research.md",
+    "202204211414 Project - Coverage and Image Stitching.md",
+    "202112061649 Maximum Likelihood Estimation.md",
+    "202203211504 Robotic Pollination.md",
+    "img/ml2024_em_mle_summary.png",
+    "img/Pasted image 20240709200003.png",
+    "img/ml2024_dbl_descent_1.png",
+    "img/ml2024_ddl_descent_2.png",
+    "img/ml2024_em_mle_img.png",
+    "img/ml2024_em_mle_jensens.png",
+    "img/Pasted image 20240721093642.png",
+    "img/Pasted image 20240721093538.png",
+    "img/Pasted image 20240721091909.png",
+    "img/Pasted image 20240531234010.png"
+  ]
+}

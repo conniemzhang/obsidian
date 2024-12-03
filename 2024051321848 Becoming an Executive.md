@@ -1,0 +1,17 @@
+I’m 37, SVP level in marketing. I could write a thesis on this topic lol
+
+Curiosity is THE fundamental trait. Ask questions and seek to understand. Why do we do things this way? Then: do I really agree with this, and could we be doing it better or faster or smarter? This could be anything from a better process that simplifies your team’s life, to offering up a new strategy on a project. IMO the people that stay stuck in middle management are the ones that regurgitate information/direction without ever questioning it or fully understanding it themselves.
+
+Insight. Being able to distill a situation and read between the lines to understand the big picture and underlying root. For example, not just giving someone (a client, a manager) what they ask for, but understanding the root of the ask to be able to deliver what’s truly needed.
+
+Foresight. Identifying solutions not just for the problem at-hand, but getting to the root of the problem for solutions that are “long-term smart.” For example, if there’s a problem with a report it’s easy enough to fix the error, but with more experience you can identify a new process that will prevent future errors and make the process simpler for the long-run.
+
+Emotional intelligence. Striking the right balance of assertiveness and open-mindedness when working with others. Being able to adjust how you approach different challenges based on the people involved to achieve your goal. Managing relationships and drawing out the best in people/what you need from people. Keeping your cool in tough situations.
+
+Storytelling. Most industries, whether you’re a lawyer or a data scientist or a marketer, require storytelling. Bring people along on a narrative journey. It means crafting deliverables that: clearly articulate the challenge you’re solving for; structures information in clear and concise ways; crafts an effective narrative where each point builds on the last to a crescendo; draws from a variety of different sources for rationale and inspiration; anticipates questions or needs. The power of persuasion and influence is crucial in a leadership role and storytelling is one of the strongest tools.
+
+Managing up. Produce work that is CEO-ready. You can use your manager as a sounding board along the way, but they are not there to take your work to the finish line or catch your mistakes. This is more and more crucial at each level, because at each level, your boss has less time (and eventually no time) to check your work.
+
+Being liked is not the same as being respected, but both are equally important and they are very much intertwined. There’s a lot I can say here. Just literally be a human being. Don’t be overly formal and professional—no one likes a stiff. Be empathetic with your direct reports. Be a sounding board to reports and colleagues when they have challenges or projects they’re tackling. Be humble. Be helpful (this is NOT the same as being a yes man). Don’t underestimate the power of grabbing a drink with someone and connecting outside of the office. None of these are super novel concepts though and are probably best summed up in the book How to Win Friends and Influence People.
+
+And honestly? Being a sharp dresser and having a put-together look goes a long way too.
