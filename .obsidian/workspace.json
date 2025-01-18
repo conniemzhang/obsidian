@@ -76,9 +76,166 @@
               "icon": "lucide-file",
               "title": "8. Markov Models"
             }
+          },
+          {
+            "id": "c10be856dd5c2987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monster Lesbians chap 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monster Lesbians chap 2"
+            }
+          },
+          {
+            "id": "16ab53c16157f53c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "machine_learning_notes/9. Q Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9. Q Learning"
+            }
+          },
+          {
+            "id": "a33a82d44447f597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "machine_learning_notes/RL Homework 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RL Homework 2"
+            }
+          },
+          {
+            "id": "f5cdaba3277bfa82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "machine_learning_notes/9. Q Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9. Q Learning"
+            }
+          },
+          {
+            "id": "6cbad5a35901c936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "machine_learning_notes/11. Policy Search.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11. Policy Search"
+            }
+          },
+          {
+            "id": "e1755a2f7d390c66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "machine_learning_notes/RL Homework 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RL Homework 2"
+            }
+          },
+          {
+            "id": "a6e9b4452d2eb5cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "machine_learning_notes/11. Policy Search.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11. Policy Search"
+            }
+          },
+          {
+            "id": "cdae3fd8e0eb9c54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "machine_learning_notes/RL Homework 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RL Homework 3"
+            }
+          },
+          {
+            "id": "5cefb159e2e1eb33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "machine_learning_notes/RL Homework 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RL Homework 1"
+            }
+          },
+          {
+            "id": "c6d66193da64f88b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What do you actually want out of your art?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What do you actually want out of your art?"
+            }
+          },
+          {
+            "id": "7136a8122e9bf802",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -109,7 +266,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Startup",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,6 +336,16 @@
             "state": {
               "type": "inline-scripts-button-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b0ef41e4f94bf8e0",
+            "type": "leaf",
+            "state": {
+              "type": "inline-scripts-button-view",
+              "state": {},
               "icon": "inline-scripts-button-view",
               "title": "Inline Scripts - Buttons"
             }
@@ -199,45 +366,45 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5d99ca65e7a8f6b7",
+  "active": "d69f75fa4fbfd0c0",
   "lastOpenFiles": [
-    "machine_learning_notes/Policy Evaluation.md",
-    "machine_learning_notes/1. Linear Regression.md",
-    "machine_learning_notes/8. Markov Models.md",
-    "machine_learning_notes/7. Learning Theory.md",
-    "Pasted image 20241201101704.png",
-    "machine_learning_notes/Q Learning.md",
-    "RL - Homework 1.md",
-    "How to Write a Pitch Deck.md",
-    "2022042223 Homemade Explosives.md",
-    "202107131330 Drone Delivery.md",
-    "202106291758 Rtab-SLAM.md",
-    "Art-Cade.md",
-    "Butch Exterminator in Another World.md",
-    "Untitled Monster Lesbians chap 2.md",
-    "creative_writing/Monster Lesbians Chap 1.md",
-    "creative_writing/Character Profiles.md",
-    "Monster Lesbians chap 2.md",
-    "math_notes/202106291748 Normal Distribution Transform.md",
+    "machine_learning_notes/RL Homework 4.md",
     "Untitled.canvas",
-    "math_notes/Probability Review.md",
+    "Content Creation.md",
+    "What do you actually want out of your art?.md",
+    "machine_learning_notes/RL Homework 3.md",
+    "machine_learning_notes/RL Homework 1.md",
+    "machine_learning_notes/11. Policy Search.md",
+    "machine_learning_notes/10. Policy Evaluation.md",
+    "12. Homework.md",
+    "Pasted image 20250104161121.png",
+    "Untitled 2.md",
+    "machine_learning_notes/RL Homework 2.md",
+    "Side Hustles.md",
+    "Entropy Based Methods.md",
+    "machine_learning_notes/8. Markov Models.md",
+    "machine_learning_notes/9. Q Learning.md",
+    "Untitled 1.md",
+    "machine_learning_notes/7. Learning Theory.md",
+    "machine_learning_notes/(ICA) Independent Components Analysis.md",
+    "machine_learning_notes/1. Linear Regression.md",
+    "Untitled.md",
+    "Monster Lesbians chap 2.md",
+    "ML Homework 4.md",
+    "ML Homework 5.md",
+    "ML Homework 2.md",
+    "ML Homework 1.md",
+    "202412031244 Growing Mushrooms.md",
+    "Pasted image 20241201101704.png",
     "math_notes",
     "machine_learning_notes/Given Lecture Notes/Principal Component Analysis.pdf",
     "machine_learning_notes/Given Lecture Notes/Mixture of Gaussians.pdf",
     "machine_learning_notes/Given Lecture Notes/Expectation Maximization Algorithm.pdf",
     "machine_learning_notes/Given Lecture Notes",
-    "creative_writing/Writing Class.md",
-    "machine_learning_notes/5. Kernels and SVMs.md",
-    "machine_learning_notes/3.md",
-    "machine_learning_concepts/8. Markov Models.md",
     "machine_learning_notes/Lecture Notes/Principal Component Analysis.pdf",
     "machine_learning_notes/Lecture Notes/Expectation Maximization Algorithm.pdf",
     "machine_learning_notes/Lecture Notes/Mixture of Gaussians.pdf",
     "machine_learning_notes/Lecture Notes",
-    "machine_learning_notes/6b. Unsupervised Learning (Subspace).md",
-    "machine_learning_notes/6a. Unsupervised Learning (Cluster).md",
-    "machine_learning_notes/4. Generative Learning Algorithms.md",
-    "machine_learning_notes/3. Generalized Linear Models.md",
     "machine_learning_notes",
     "img/ml2024_em_mle_summary.png",
     "img/Pasted image 20240709200003.png",
@@ -246,7 +413,6 @@
     "img/ml2024_em_mle_img.png",
     "img/ml2024_em_mle_jensens.png",
     "img/Pasted image 20240721093642.png",
-    "img/Pasted image 20240721093538.png",
-    "img/Pasted image 20240721091909.png"
+    "img/Pasted image 20240721093538.png"
   ]
 }
