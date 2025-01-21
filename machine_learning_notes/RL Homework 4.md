@@ -46,3 +46,18 @@ I randomly generated one (489), and I would agree with the label. It's hard to t
 Out of the five samples (489, 3032, 3567, 5938, 5936) I agreed with four out of the five labels. However, some of the differences were extremely subtle and I could see it being labeled either way depending on the person, and the one I disagreed with I strongly disagreed with (3567). Given this small sample, I would say I trust the labeler and the reward function learned on this data. 
 
 
+## Problem 3
+### Problem 3d
+
+
+## Problem 4
+### Problem 4a
+After a read through the paper in problem (4c), it seems that raters are generally minorities and young people - both generally in lower socioeconomic groups and mixed grasp of English. The selected human raters are not representative of the general population and therefore would rate based on their own biases. This would mean that bias would be introduced into the model in harmful ways. Ethically, it means selecting for candidates that fit a certain profile to balance your model which is no longer fair to all applicants. It also means data annotation is likely not paid well, and is being outsourced to those who need the work but will not benefit from the products.
+
+### Problem 4b
+There is only one correct answer for medical diagnoses, so RLHF would not be a good way to train a system to make medical diagnoses. This is because the human trainers would need to be experienced doctors, and even so, a doctor may be wrong which would skew the results. 
+With medical data specifically, there are also privacy concerns which are protected with laws like HIPAA, which would make obtaining good data difficult. Medical conditions also progress over time, making it hard to quantify as a data set as it would be very difficult to capture the full context that lead to a diagnosis. 
+
+
+### Problem 4c
+The paper describes the logistical issues of using people including cost/quality, limitations of types of feedback, oversight costs, and human mistakes and irrationality. It also describes challenges with the reward model itself. It's difficult to represent a human's values with a reward function, because humans have a lot of context that cannot be captured in a binary choice. The difficulty of creating these reward models means they can misgeneralize to be poor reward proxies, and could lead to reward hacking. Policies also are hard to optimize effectively, and can be adversarially exploited by humans and other AI systems -- another compelling reason to not use them for medical diagnoses.

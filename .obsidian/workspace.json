@@ -221,17 +221,14 @@
             "id": "7136a8122e9bf802",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "machine_learning_notes/RL Homework 4.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "RL Homework 4"
             }
           }
         ],
@@ -366,11 +363,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d69f75fa4fbfd0c0",
+  "active": "7136a8122e9bf802",
   "lastOpenFiles": [
+    "creative_writing/Art-Cade.md",
+    "machine_learning_notes/ML Homework 5.md",
     "machine_learning_notes/RL Homework 4.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
     "Untitled.canvas",
-    "Content Creation.md",
+    "creative_writing/Content Creation.md",
     "What do you actually want out of your art?.md",
     "machine_learning_notes/RL Homework 3.md",
     "machine_learning_notes/RL Homework 1.md",
@@ -378,22 +379,19 @@
     "machine_learning_notes/10. Policy Evaluation.md",
     "12. Homework.md",
     "Pasted image 20250104161121.png",
-    "Untitled 2.md",
     "machine_learning_notes/RL Homework 2.md",
     "Side Hustles.md",
     "Entropy Based Methods.md",
     "machine_learning_notes/8. Markov Models.md",
     "machine_learning_notes/9. Q Learning.md",
-    "Untitled 1.md",
     "machine_learning_notes/7. Learning Theory.md",
     "machine_learning_notes/(ICA) Independent Components Analysis.md",
     "machine_learning_notes/1. Linear Regression.md",
     "Untitled.md",
-    "Monster Lesbians chap 2.md",
-    "ML Homework 4.md",
-    "ML Homework 5.md",
-    "ML Homework 2.md",
-    "ML Homework 1.md",
+    "creative_writing/Monster Lesbians chap 2.md",
+    "machine_learning_notes/ML Homework 4.md",
+    "machine_learning_notes/ML Homework 2.md",
+    "machine_learning_notes/ML Homework 1.md",
     "202412031244 Growing Mushrooms.md",
     "Pasted image 20241201101704.png",
     "math_notes",
