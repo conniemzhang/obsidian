@@ -14,13 +14,14 @@ We see that early termination causes significant variability of the reward, and 
 To better estimate the average return, we could use different starting seeds, or possibly increase the number of episodes so the variance is reduced in the estimate of the average. When we use different starting seeds, we could also cross-reference the performance to gain a more wholistic picture.
 
 ### Problem 1f
-I ran with early termination. I was surprised by how often the early termination was triggered, and the robot did not go as far as I expected. It sort of completes the task, but tends to stability instead of hopping.
+I ran with early termination. I was surprised by how well it performed - it did in fact jump forward and only fell over for the last few seconds. The behavior itself looks expected, it bent the knee to create force to leap forward and repeat. It skips more "on the toes" than one would maybe try manually. 
 
 ### Problem 1g
-Compared with no early termination, the robot falls over and is a lot more "wacky". However, it did thrash further. Since our goal is to move further, I prefer this one even though it doesn't "hop" as well. 
+I ran with the same seed and no early termination. This Hopper barely moved, appearing to "trip" and fall on the floor and spend the rest of the video vibrating. The one with early termination is strongly preferred over this rollout.
 
 
 ## Problem 2
+### Problem 2a
 If we express the sum of estimated rewards for trajectory $\sigma$ as: $\hat{r}(\sigma) = \sum_{t} \hat{r}(o_t, a_t)$, we can rewrite the Bradley-Terry preference model as: 
 $$P[\sigma_1 \succ \sigma_2] = \frac{\exp(\hat{r}(\sigma_1))}{\exp(\hat{r}(\sigma_1)) + \exp(\hat{r}(\sigma_2))}$$
 The loss function used is a cross-entropy loss: $$\text{loss}(\hat{r}) = - \sum \mu(1) \log P[\sigma_1 \succ \sigma_2] + \mu(2) \log P[\sigma_2 \succ \sigma_1]$$
